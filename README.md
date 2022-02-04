@@ -1,2 +1,2 @@
 # sirearsh.github.io
-(sirearsh.github.io)[website]
+[sirearsh.github.io](website)
